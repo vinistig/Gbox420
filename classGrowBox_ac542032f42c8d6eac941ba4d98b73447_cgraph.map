@@ -1,0 +1,44 @@
+<map id="GrowBox::refresh_QuarterHour" name="GrowBox::refresh_QuarterHour">
+<area shape="rect" id="node2" href="$classCommon.html#aa7222229739c89d441fadd6a40deff89" title="Common::refresh_QuarterHour" alt="" coords="525,165,727,192"/>
+<area shape="rect" id="node4" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="256,701,471,742"/>
+<area shape="rect" id="node39" href="$classModule__Web.html#a54a0a2a3106a9068aa0d15b592602601" title="Module_Web::addToLog" alt="" coords="811,1323,974,1349"/>
+<area shape="rect" id="node40" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="281,817,446,844"/>
+<area shape="rect" id="node41" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="291,868,436,895"/>
+<area shape="rect" id="node42" href="$classSound.html#a53aa4bec2fd464c5149ca30b29b35ac1" title="Sound::playOffSound" alt="" coords="290,919,437,945"/>
+<area shape="rect" id="node43" href="$classRollingAverage.html#a5413499ba156dd5acec73196edfda3d4" title="Constructor , default queue size is 10. " alt="" coords="266,969,461,996"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="1111,5,1205,32"/>
+<area shape="rect" id="node5" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="519,708,733,735"/>
+<area shape="rect" id="node6" href="$classDHTSensor.html#aa8f673e089408d2a435e0cd5631af44f" title="DHTSensor::getTempText" alt="" coords="805,411,981,437"/>
+<area shape="rect" id="node8" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="1365,613,1424,640"/>
+<area shape="rect" id="node9" href="$classDHTSensor.html#a9770b8c3dddf36a7ebbd39f6135c2bb8" title="DHTSensor::getHumidityText" alt="" coords="795,708,990,735"/>
+<area shape="rect" id="node11" href="$classFan.html#acd41482f79dd009bcecd7740f8dbf002" title="Fan::fanSpeedToNumber" alt="" coords="809,360,977,387"/>
+<area shape="rect" id="node12" href="$classLights.html#a713a28eba8f6fd8fb259bac4175ece26" title="Lights::getStatusText" alt="" coords="819,224,966,251"/>
+<area shape="rect" id="node14" href="$classLights.html#a9b3e722f1a168d74686e7ee94bf1634b" title="Lights::getBrightnessText" alt="" coords="1073,107,1243,133"/>
+<area shape="rect" id="node15" href="$classLightSensor.html#af38ae75a6739383e1590548fdb07e353" title="Light sensor analog feedback: 0(darkest) to 1023 (brightest) " alt="" coords="797,123,988,149"/>
+<area shape="rect" id="node18" href="$classLightSensor.html#a70fd8f7252cbc9abb2ea501ccfaf08fe" title="Light sensor digital feedback: True(Dark) or False(Bright) " alt="" coords="807,512,978,539"/>
+<area shape="rect" id="node20" href="$classWaterLevelSensor.html#a8093a4963a9ac42e5f7c923db6758c1f" title="WaterLevelSensor::getLevelText" alt="" coords="1052,411,1264,437"/>
+<area shape="rect" id="node21" href="$classWaterTempSensor.html#adf0bb887371405a1136ebe1578e0d0e4" title="WaterTempSensor::getTempText" alt="" coords="785,309,1001,336"/>
+<area shape="rect" id="node22" href="$classPHSensor.html#afa1a5158732cd57ffb41ae089bf8850f" title="PHSensor::getPHText" alt="" coords="816,1120,969,1147"/>
+<area shape="rect" id="node25" href="$classPressureSensor.html#aa3eccb7d69ba28ff2f5c4688bf13f7e8" title="PressureSensor::getPressureText" alt="" coords="783,1171,1002,1197"/>
+<area shape="rect" id="node27" href="$classPowerSensor.html#ad1544079a0a3b7eafbb02411a2553cff" title="PowerSensor::getPowerText" alt="" coords="1063,563,1253,589"/>
+<area shape="rect" id="node28" href="$classPowerSensor.html#a20b1412111d88dbf9ec19b1716dadb11" title="PowerSensor::getEnergyText" alt="" coords="1061,613,1255,640"/>
+<area shape="rect" id="node29" href="$classPowerSensor.html#a168a4f9e8ea56397b1d67889ce3575b6" title="PowerSensor::getVoltageText" alt="" coords="1060,765,1256,792"/>
+<area shape="rect" id="node30" href="$classPowerSensor.html#ac3795cfd4910157ca6046272d53cab1f" title="PowerSensor::getCurrentText" alt="" coords="1061,917,1255,944"/>
+<area shape="rect" id="node31" href="$classLights.html#a8899969e0175e8242f9139c17585bcd0" title="Lights::getTimerOnOffText" alt="" coords="804,816,981,843"/>
+<area shape="rect" id="node33" href="$classLights.html#a5e2894e6935173e46c8d70f4bc7d36ed" title="Lights::getOnTimeText" alt="" coords="815,1221,970,1248"/>
+<area shape="rect" id="node35" href="$classLights.html#afa7da12d1c3c6646a547220f34c90bd3" title="Lights::getOffTimeText" alt="" coords="815,1272,971,1299"/>
+<area shape="rect" id="node36" href="$classAeroponics.html#a1e034519da66b9967e19f6c23ecebcff" title="Aeroponics::getSprayIntervalText" alt="" coords="785,955,1001,981"/>
+<area shape="rect" id="node37" href="$classAeroponics.html#a2a79417841d22601d6f542c98f638846" title="Aeroponics::getSprayDurationText" alt="" coords="781,1012,1004,1039"/>
+<area shape="rect" id="node38" href="$classModule__Web.html#a450ba698751f3ddbd52deec3c573d2f9" title="Google Sheets functions. " alt="" coords="797,57,988,98"/>
+<area shape="rect" id="node7" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2683828a0a7f43a26f85171e7c2dc73" title="tempToText" alt="" coords="1112,309,1204,336"/>
+<area shape="rect" id="node10" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2181939215a2351276764f38df14af0" title="percentageToText" alt="" coords="1095,664,1221,691"/>
+<area shape="rect" id="node13" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#ab4873716405bd442cdca23c7c29a9131" title="onOffToText" alt="" coords="1111,208,1205,235"/>
+<area shape="rect" id="node16" href="$classRollingAverage.html#a7b7015bd5a39e953983f73330b3d8c87" title="RollingAverage::getIntText" alt="" coords="1069,56,1247,83"/>
+<area shape="rect" id="node17" href="$classRollingAverage.html#a4fc812fc5b678f41c4a01d79c7fc5923" title="RollingAverage::getInt" alt="" coords="1319,56,1470,83"/>
+<area shape="rect" id="node19" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#a8abf19822a7d099be562b7a2bdd8258b" title="yesNoToText" alt="" coords="1107,512,1209,539"/>
+<area shape="rect" id="node23" href="$classRollingAverage.html#aab001a981060af0948bd8b46c05c8e97" title="RollingAverage::getFloatText" alt="" coords="1063,1120,1253,1147"/>
+<area shape="rect" id="node24" href="$classRollingAverage.html#ada0ea15c7152230f9433329fba92d3f8" title="by default return the average, if false is passed return the latest reading " alt="" coords="1312,1171,1477,1197"/>
+<area shape="rect" id="node26" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#ac0c4720f7d0aa5489bba21f0c45b23bc" title="pressureToText" alt="" coords="1101,1171,1215,1197"/>
+<area shape="rect" id="node32" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#a50877b3ad85652d07b562b9f0821596b" title="enabledToText" alt="" coords="1104,867,1212,893"/>
+<area shape="rect" id="node34" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#a2154478acbbb1471b35db8d3dce6f554" title="timeToText" alt="" coords="1114,1272,1202,1299"/>
+</map>

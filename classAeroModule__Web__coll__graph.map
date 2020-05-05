@@ -1,0 +1,8 @@
+<map id="AeroModule_Web" name="AeroModule_Web">
+<area shape="rect" id="node2" href="$classCommon__Web.html" title="Common_Web" alt="" coords="5,153,115,180"/>
+<area shape="rect" id="node4" href="$classModule__Web.html" title="Module_Web" alt="" coords="123,360,221,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="220,5,295,32"/>
+<area shape="rect" id="node5" href="$classModule.html" title="Module" alt="" coords="211,153,275,180"/>
+<area shape="rect" id="node6" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="401,360,460,387"/>
+<area shape="rect" id="node7" href="$structSettings_1_1AeroModuleSettings.html" title="Switch between Imperial/Metric units. If changed update the default temp and pressure values too..." alt="" coords="484,360,679,387"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Module_Web::addToRefreshQueue_FiveSec" name="Module_Web::addToRefreshQueue_FiveSec">
+<area shape="rect" id="node2" href="$classModuleSkeleton__Web.html#aec8ecee521cba264f403e7ff08d178d8" title="ModuleSkeleton_Web\l::ModuleSkeleton_Web" alt="" coords="296,5,453,47"/>
+<area shape="rect" id="node3" href="$classPowerSensor__Web.html#a7557ab09526b936ca15b5dc4ecb6f1ef" title="PowerSensor_Web::PowerSensor_Web" alt="" coords="247,71,502,98"/>
+<area shape="rect" id="node4" href="$classPowerSensorV3__Web.html#ad7ac3b7dbf2e4cef928121ad92f7f528" title="PowerSensorV3_Web::\lPowerSensorV3_Web" alt="" coords="295,123,454,164"/>
+<area shape="rect" id="node5" href="$classAeroModule__Web.html#ab428de02336385c258daad686aa431f0" title="AeroModule_Web::AeroModule_Web" alt="" coords="257,189,493,215"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#a97be86fb3583134289303bbf7fbbeca4" title="Only for PZEM004T V3.0. " alt="" coords="305,239,444,266"/>
+<area shape="rect" id="node7" href="$classHempyModule__Web.html#a00b9e646494d3540f37dee684561259a" title="HempyModule_Web::HempyModule_Web" alt="" coords="241,290,508,317"/>
+<area shape="rect" id="node8" href="$classMainModule.html#aff65f1a6d61aaf140ff0022815d7f309" title="Only for demonstration purposes. " alt="" coords="289,341,460,367"/>
+</map>

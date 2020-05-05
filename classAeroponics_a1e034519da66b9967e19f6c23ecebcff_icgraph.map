@@ -1,0 +1,6 @@
+<map id="Aeroponics::getSprayIntervalText" name="Aeroponics::getSprayIntervalText">
+<area shape="rect" id="node2" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="269,35,484,61"/>
+<area shape="rect" id="node3" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="550,5,729,32"/>
+<area shape="rect" id="node4" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="532,57,747,98"/>
+<area shape="rect" id="node5" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="795,64,997,91"/>
+</map>

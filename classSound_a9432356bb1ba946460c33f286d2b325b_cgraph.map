@@ -1,0 +1,7 @@
+<map id="Sound::Sound" name="Sound::Sound">
+<area shape="rect" id="node2" href="$classModule.html#a08595d2a2bd347eec39c47a3b9e770fb" title="Module::addToRefreshQueue_Sec" alt="" coords="157,5,380,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="442,19,537,45"/>
+<area shape="rect" id="node4" href="$classSound.html#a93a63a862c3aa1dd50acb0d8eaa61d6c" title="Sound::checkEvents" alt="" coords="197,107,340,133"/>
+<area shape="rect" id="node5" href="$classSound.html#ab1fb7a2e72d848ca335b4721cd8540b7" title="Sound::OffSound" alt="" coords="428,81,551,108"/>
+<area shape="rect" id="node6" href="$classSound.html#ac26eda99f623e5a839d1c408d8a591d9" title="Sound::OnSound" alt="" coords="429,132,550,159"/>
+</map>

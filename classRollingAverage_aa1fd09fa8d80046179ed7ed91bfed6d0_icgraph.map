@@ -1,0 +1,11 @@
+<map id="RollingAverage::updateAverage" name="RollingAverage::updateAverage">
+<area shape="rect" id="node2" href="$classPressureSensor.html#a7a16702239fcf55a72e91c45fe4002ac" title="PressureSensor::readPressure" alt="" coords="261,49,461,75"/>
+<area shape="rect" id="node5" href="$classRollingAverage.html#a8b3550acbd16b942b565150334205d52" title="RollingAverage::updateAverage" alt="" coords="259,99,464,126"/>
+<area shape="rect" id="node6" href="$classLightSensor.html#aa6c29591860ab05672a183bc32fce6f4" title="LightSensor::refresh\l_Minute" alt="" coords="292,151,431,192"/>
+<area shape="rect" id="node7" href="$classPHSensor.html#aefd9f4f73636b8827a22b8246cbc4dee" title="PHSensor::updatePH" alt="" coords="287,217,435,243"/>
+<area shape="rect" id="node10" href="$classModuleSkeleton__Web.html#aeff57d699bdcbab91538f8073cdbf9b0" title="ModuleSkeleton_Web\l::websiteEvent_Field" alt="" coords="287,268,436,309"/>
+<area shape="rect" id="node3" href="$classAeroponics__NoTank.html#a8e0130107832f0a60d37ea581f6f67fb" title="constructor " alt="" coords="539,5,687,47"/>
+<area shape="rect" id="node4" href="$classPressureSensor.html#a1081c5a1073a4c5d0c790f92e53febf0" title="PressureSensor::refresh\l_Minute" alt="" coords="532,71,695,112"/>
+<area shape="rect" id="node8" href="$classPHSensor.html#a0cb40466ff35d33b729960b339f608ce" title="PHSensor::refresh_Minute" alt="" coords="525,165,701,191"/>
+<area shape="rect" id="node9" href="$classPHSensor__Web.html#a54944c4adb45f117e3e209f903cc5bec" title="PHSensor_Web::websiteEvent\l_Button" alt="" coords="512,216,715,257"/>
+</map>

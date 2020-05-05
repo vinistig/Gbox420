@@ -1,0 +1,8 @@
+<map id="DHTSensor_Web::websiteEvent_Refresh" name="DHTSensor_Web::websiteEvent_Refresh">
+<area shape="rect" id="node2" href="$classCommon.html#a86553d0d8ffabfd97236aa54ca2ba8f1" title="When it return true the component belongs to this object. " alt="" coords="265,5,468,32"/>
+<area shape="rect" id="node3" href="$classDHTSensor.html#aa8f673e089408d2a435e0cd5631af44f" title="DHTSensor::getTempText" alt="" coords="279,56,455,83"/>
+<area shape="rect" id="node6" href="$classDHTSensor.html#a9770b8c3dddf36a7ebbd39f6135c2bb8" title="DHTSensor::getHumidityText" alt="" coords="269,107,464,133"/>
+<area shape="rect" id="node4" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2683828a0a7f43a26f85171e7c2dc73" title="tempToText" alt="" coords="533,31,625,57"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="550,81,609,108"/>
+<area shape="rect" id="node7" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2181939215a2351276764f38df14af0" title="percentageToText" alt="" coords="516,132,643,159"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="toText" name="toText">
+<area shape="rect" id="node2" href="$classAeroponics.html#a3dbfce027ab5fa736a6007a6ae75ee4e" title="Aeroponics::report" alt="" coords="169,84,297,111"/>
+<area shape="rect" id="node3" href="$classAeroponics__NoTank.html#af2f6dfdcfd4365ed35aa83176113ff86" title="Aeroponics_NoTank::\lreport" alt="" coords="440,18,588,60"/>
+<area shape="rect" id="node5" href="$classAeroponics.html#a1e034519da66b9967e19f6c23ecebcff" title="Aeroponics::getSprayIntervalText" alt="" coords="406,1028,622,1055"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="673,784,888,811"/>
+<area shape="rect" id="node7" href="$classAeroponics.html#a2a79417841d22601d6f542c98f638846" title="Aeroponics::getSprayDurationText" alt="" coords="403,1180,625,1207"/>
+<area shape="rect" id="node8" href="$classPressureSensor.html#a9a97fa923ea86256eadff802549f0081" title="PressureSensor::readOffset" alt="" coords="141,1383,325,1410"/>
+<area shape="rect" id="node10" href="$classWaterPump.html#a87cb38733467fa420729df2f0bebb161" title="WaterPump::report" alt="" coords="167,1434,299,1460"/>
+<area shape="rect" id="node11" href="$classRollingAverage.html#a7b7015bd5a39e953983f73330b3d8c87" title="RollingAverage::getIntText" alt="" coords="145,338,322,364"/>
+<area shape="rect" id="node13" href="$classModuleSkeleton.html#a4b13bbc3ce0282781e36f450bd4f189a" title="ModuleSkeleton::report" alt="" coords="436,287,592,314"/>
+<area shape="rect" id="node14" href="$classRollingAverage.html#aab001a981060af0948bd8b46c05c8e97" title="RollingAverage::getFloatText" alt="" coords="138,236,329,263"/>
+<area shape="rect" id="node18" href="$classHempyBucket.html#acfee435c7b1c62a03ad067b92a676102" title="HempyBucket::report" alt="" coords="160,1484,307,1511"/>
+<area shape="rect" id="node19" href="$classHempyBucket.html#a180c7a58aaef7b7a6e3429907bd4c271" title="HempyBucket::getStartWeightText" alt="" coords="120,1535,347,1562"/>
+<area shape="rect" id="node20" href="$classHempyBucket.html#a5b5138b909891faf8596fe8da27f47c0" title="HempyBucket::getStopWeightText" alt="" coords="121,1586,346,1612"/>
+<area shape="rect" id="node21" href="$classWeightSensor.html#a509480a184e7fdf11a30546683faf6c2" title="WeightSensor::getWeightText" alt="" coords="135,1636,332,1663"/>
+<area shape="rect" id="node23" href="$classDHTSensor.html#aa8f673e089408d2a435e0cd5631af44f" title="DHTSensor::getTempText" alt="" coords="145,451,321,478"/>
+<area shape="rect" id="node26" href="$classDHTSensor.html#a9770b8c3dddf36a7ebbd39f6135c2bb8" title="DHTSensor::getHumidityText" alt="" coords="136,531,331,558"/>
+<area shape="rect" id="node27" href="$classLights.html#a68fc62af07d71db2fb5a436e11ecad3c" title="Lights::report" alt="" coords="465,1130,563,1156"/>
+<area shape="rect" id="node28" href="$classLights.html#a07adf7d87869f70fbe9f258c2b47e886" title="Lights::setBrightness" alt="" coords="161,1687,306,1714"/>
+<area shape="rect" id="node29" href="$classLights.html#a8899969e0175e8242f9139c17585bcd0" title="Lights::getTimerOnOffText" alt="" coords="145,826,322,852"/>
+<area shape="rect" id="node30" href="$classMainModule.html#a74aefded56067720380c0e7e85b46f36" title="MainModule::reportToGoogle\lSheets" alt="" coords="419,861,609,902"/>
+<area shape="rect" id="node31" href="$classLights.html#a9b3e722f1a168d74686e7ee94bf1634b" title="Lights::getBrightnessText" alt="" coords="148,927,319,954"/>
+<area shape="rect" id="node32" href="$classLights.html#a713a28eba8f6fd8fb259bac4175ece26" title="Lights::getStatusText" alt="" coords="160,1079,307,1106"/>
+<area shape="rect" id="node33" href="$classLightSensor.html#a73dea4504d64c13c43a5c68bee9aef27" title="Website signals to calibrate the Dark/Min/Max readings at the next refresh trigger. " alt="" coords="144,1738,323,1780"/>
+<area shape="rect" id="node34" href="$classLightSensor.html#a70fd8f7252cbc9abb2ea501ccfaf08fe" title="Light sensor digital feedback: True(Dark) or False(Bright) " alt="" coords="429,1231,599,1258"/>
+<area shape="rect" id="node35" href="$classPHSensor.html#aefd9f4f73636b8827a22b8246cbc4dee" title="PHSensor::updatePH" alt="" coords="159,1804,307,1831"/>
+<area shape="rect" id="node36" href="$classPowerSensor.html#ad1544079a0a3b7eafbb02411a2553cff" title="PowerSensor::getPowerText" alt="" coords="139,978,328,1004"/>
+<area shape="rect" id="node37" href="$classPowerSensor.html#a20b1412111d88dbf9ec19b1716dadb11" title="PowerSensor::getEnergyText" alt="" coords="137,674,330,700"/>
+<area shape="rect" id="node38" href="$classPowerSensor.html#a168a4f9e8ea56397b1d67889ce3575b6" title="PowerSensor::getVoltageText" alt="" coords="135,724,331,751"/>
+<area shape="rect" id="node39" href="$classPowerSensor.html#ac3795cfd4910157ca6046272d53cab1f" title="PowerSensor::getCurrentText" alt="" coords="136,775,331,802"/>
+<area shape="rect" id="node40" href="$classPowerSensorV3.html#a17c2031435f3ada2c531c41cdf58c629" title="PowerSensorV3::getPowerText" alt="" coords="131,1855,336,1882"/>
+<area shape="rect" id="node41" href="$classPowerSensorV3.html#a63517e9f76afef5ee7da103cc46abc84" title="PowerSensorV3::getEnergyText" alt="" coords="129,1906,338,1932"/>
+<area shape="rect" id="node42" href="$classPowerSensorV3.html#a506c7292897607d7dd31d3ff3696806a" title="PowerSensorV3::getVoltageText" alt="" coords="127,1956,339,1983"/>
+<area shape="rect" id="node43" href="$classPowerSensorV3.html#afae9ea1a12d8b7fc3eb012b1c38d0639" title="PowerSensorV3::getCurrentText" alt="" coords="128,2007,339,2034"/>
+<area shape="rect" id="node44" href="$classPowerSensorV3.html#adc5ce409d7bf0b6dac4d65fa64619bdb" title="PowerSensorV3::getFrequencyText" alt="" coords="119,2058,348,2084"/>
+<area shape="rect" id="node45" href="$classPowerSensorV3.html#a0799057ba96ffc74b372b88d94874d33" title="PowerSensorV3::getPowerFactorText" alt="" coords="112,2108,355,2135"/>
+<area shape="rect" id="node46" href="$classWaterLevelSensor.html#a8093a4963a9ac42e5f7c923db6758c1f" title="WaterLevelSensor::getLevelText" alt="" coords="408,1282,620,1308"/>
+<area shape="rect" id="node47" href="$classWaterTempSensor.html#adf0bb887371405a1136ebe1578e0d0e4" title="WaterTempSensor::getTempText" alt="" coords="406,607,622,634"/>
+<area shape="rect" id="node48" href="$classHempyBucket__Web.html#adcbe7b1d4b88e839477ca89700113a48" title="HempyBucket_Web::website\lEvent_Refresh" alt="" coords="137,2160,329,2201"/>
+<area shape="rect" id="node49" href="$classWeightSensor__Web.html#aa47b67e39e6cbd1b543e482c94160a66" title="WeightSensor_Web::website\lEvent_Refresh" alt="" coords="138,2225,329,2266"/>
+<area shape="rect" id="node50" href="$classHempyModule__Web.html#a033e200e89351a69f29e6d1bb763ba9e" title="HempyModule_Web::report" alt="" coords="143,2291,324,2318"/>
+<area shape="rect" id="node4" href="$classAeroponics__Tank.html#a45e50ca4e5d5a605d355d65c8cd3e5cd" title="Aeroponics_Tank::report" alt="" coords="699,110,863,136"/>
+<area shape="rect" id="node9" href="$classPressureSensor__Web.html#ad4f31802ab30bf6f21157a8504fcb023" title="PressureSensor_Web\l::websiteEvent_Button" alt="" coords="437,1384,591,1425"/>
+<area shape="rect" id="node12" href="$classLightSensor.html#af38ae75a6739383e1590548fdb07e353" title="Light sensor analog feedback: 0(darkest) to 1023 (brightest) " alt="" coords="419,338,609,364"/>
+<area shape="rect" id="node15" href="$classPressureSensor.html#aa3eccb7d69ba28ff2f5c4688bf13f7e8" title="PressureSensor::getPressureText" alt="" coords="405,135,623,162"/>
+<area shape="rect" id="node16" href="$classPHSensor.html#af9730aece2d3bcb71ac9d4f1e6f96f1e" title="PHSensor::report" alt="" coords="453,186,575,212"/>
+<area shape="rect" id="node17" href="$classPHSensor.html#afa1a5158732cd57ffb41ae089bf8850f" title="PHSensor::getPHText" alt="" coords="437,236,591,263"/>
+<area shape="rect" id="node22" href="$classWeightSensor.html#a1db622f4f2fb6971d0a4933d825c5c44" title="WeightSensor::report" alt="" coords="441,1636,587,1663"/>
+<area shape="rect" id="node24" href="$classDHTSensor.html#a2ef11882c3401c097b7a08e4b35eb103" title="DHTSensor::report" alt="" coords="448,506,580,532"/>
+<area shape="rect" id="node25" href="$classDHTSensor__Web.html#ad02a0f5edd3f948ae81f9ebe6032d443" title="DHTSensor_Web::websiteEvent\l_Refresh" alt="" coords="408,440,620,481"/>
+</map>

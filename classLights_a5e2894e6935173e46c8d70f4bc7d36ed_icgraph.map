@@ -1,0 +1,12 @@
+<map id="Lights::getOnTimeText" name="Lights::getOnTimeText">
+<area shape="rect" id="node2" href="$classLights.html#a68fc62af07d71db2fb5a436e11ecad3c" title="Lights::report" alt="" coords="266,5,365,32"/>
+<area shape="rect" id="node3" href="$classLights__Web.html#af46bb9ec74ecb0f45b465c2722b9b18a" title="Lights_Web::websiteEvent\l_Refresh" alt="" coords="226,57,405,98"/>
+<area shape="rect" id="node4" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="208,123,423,149"/>
+<area shape="rect" id="node8" href="$classMainModule.html#a74aefded56067720380c0e7e85b46f36" title="MainModule::reportToGoogle\lSheets" alt="" coords="221,181,410,222"/>
+<area shape="rect" id="node5" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="489,64,667,91"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="471,115,685,157"/>
+<area shape="rect" id="node7" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="733,123,936,149"/>
+<area shape="rect" id="node9" href="$classMainModule.html#ad8bcc57ac967efafd3a854ba09828c72" title="MainModule::refresh\l_FiveSec" alt="" coords="508,181,648,222"/>
+<area shape="rect" id="node10" href="$classMainModule.html#ad65d2de250162a43665224fd29917c8f" title="MainModule::reportToGoogle\lSheetsTrigger" alt="" coords="483,246,673,287"/>
+<area shape="rect" id="node11" href="$classMainModule.html#a42a84defbce6d6554057f49484219b7b" title="MainModule::refresh\l_QuarterHour" alt="" coords="765,246,905,287"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PressureSensor::PressureSensor" name="PressureSensor::PressureSensor">
+<area shape="rect" id="node2" href="$classModule.html#aee2cbab440d38d29948205820ad50be8" title="Queue subscriptions: When a component needs to get refreshed at certain intervals it subscribes to on..." alt="" coords="231,5,417,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="468,56,563,83"/>
+<area shape="rect" id="node4" href="$classModule.html#a20d1125116f9a8c71339fde4626c5adb" title="Module::addToRefreshQueue\l_Minute" alt="" coords="228,107,420,149"/>
+</map>

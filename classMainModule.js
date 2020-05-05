@@ -1,0 +1,25 @@
+var classMainModule =
+[
+    [ "MainModule", "classMainModule.html#aff65f1a6d61aaf140ff0022815d7f309", null ],
+    [ "refresh_FiveSec", "classMainModule.html#ad8bcc57ac967efafd3a854ba09828c72", null ],
+    [ "refresh_Minute", "classMainModule.html#a453da3eb65ede7ce7c45bcdd5a7cfdc8", null ],
+    [ "refresh_QuarterHour", "classMainModule.html#a42a84defbce6d6554057f49484219b7b", null ],
+    [ "reportToGoogleSheets", "classMainModule.html#a74aefded56067720380c0e7e85b46f36", null ],
+    [ "reportToGoogleSheetsTrigger", "classMainModule.html#ad65d2de250162a43665224fd29917c8f", null ],
+    [ "websiteEvent_Button", "classMainModule.html#a156833b0534382e7951b80d80b5457f7", null ],
+    [ "websiteEvent_Field", "classMainModule.html#ab995f49ae07a230180a9f113b60cd82d", null ],
+    [ "websiteEvent_Load", "classMainModule.html#a20bc1bd8003e07068859028feccd067f", null ],
+    [ "websiteEvent_Refresh", "classMainModule.html#ac116642e44a6e3d06aaf104bef172921", null ],
+    [ "ConsoleReportRequested", "classMainModule.html#a5da11820939b6e1ec17eb7cb4437caa3", null ],
+    [ "EFan", "classMainModule.html#ad8e2b86911737ff02ded3874ab5fe109", null ],
+    [ "HempyModule1", "classMainModule.html#a0c7db2f18baf4561ad690349c66bab6b", null ],
+    [ "IFan", "classMainModule.html#aef9345348bd0f9ae76017382ef5ac1af", null ],
+    [ "Lt1", "classMainModule.html#a39c571104dd7a035c0161c053763dbd1", null ],
+    [ "Pow1", "classMainModule.html#ae6e1495788db50a420e6792176bd86b1", null ],
+    [ "RefreshAllRequested", "classMainModule.html#a22cf3716bc2fd2b478615ccbdcd893ad", null ],
+    [ "ReportToGoogleSheets", "classMainModule.html#aa5b1a09cedef2bb578da0eae92cd2aba", null ],
+    [ "ReportToGoogleSheetsRequested", "classMainModule.html#af084b01255794a1d22c8637765449b45", null ],
+    [ "SheetsRefreshCounter", "classMainModule.html#a9ce76f4972762597efacb2df130cee60", null ],
+    [ "SheetsReportingFrequency", "classMainModule.html#adabb5e363e7d688cdb3a8dcb7afd4f1c", null ],
+    [ "Sound1", "classMainModule.html#a8ae8e3f694a475d4c460d7bcc62df417", null ]
+];

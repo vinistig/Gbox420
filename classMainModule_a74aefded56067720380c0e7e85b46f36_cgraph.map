@@ -1,0 +1,19 @@
+<map id="MainModule::reportToGoogleSheets" name="MainModule::reportToGoogleSheets">
+<area shape="rect" id="node2" href="$classFan.html#acd41482f79dd009bcecd7740f8dbf002" title="Fan::fanSpeedToNumber" alt="" coords="257,5,425,32"/>
+<area shape="rect" id="node3" href="$classLights.html#a713a28eba8f6fd8fb259bac4175ece26" title="Lights::getStatusText" alt="" coords="267,56,414,83"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="511,233,570,260"/>
+<area shape="rect" id="node6" href="$classLights.html#a9b3e722f1a168d74686e7ee94bf1634b" title="Lights::getBrightnessText" alt="" coords="255,157,426,184"/>
+<area shape="rect" id="node7" href="$classPowerSensor.html#ad1544079a0a3b7eafbb02411a2553cff" title="PowerSensor::getPowerText" alt="" coords="246,208,435,235"/>
+<area shape="rect" id="node8" href="$classPowerSensor.html#a20b1412111d88dbf9ec19b1716dadb11" title="PowerSensor::getEnergyText" alt="" coords="244,259,437,285"/>
+<area shape="rect" id="node9" href="$classPowerSensor.html#a168a4f9e8ea56397b1d67889ce3575b6" title="PowerSensor::getVoltageText" alt="" coords="243,309,439,336"/>
+<area shape="rect" id="node10" href="$classPowerSensor.html#ac3795cfd4910157ca6046272d53cab1f" title="PowerSensor::getCurrentText" alt="" coords="243,360,438,387"/>
+<area shape="rect" id="node11" href="$classLights.html#a8899969e0175e8242f9139c17585bcd0" title="Lights::getTimerOnOffText" alt="" coords="252,411,429,437"/>
+<area shape="rect" id="node13" href="$classLights.html#a5e2894e6935173e46c8d70f4bc7d36ed" title="Lights::getOnTimeText" alt="" coords="263,461,418,488"/>
+<area shape="rect" id="node15" href="$classLights.html#afa7da12d1c3c6646a547220f34c90bd3" title="Lights::getOffTimeText" alt="" coords="263,512,419,539"/>
+<area shape="rect" id="node16" href="$classModule__Web.html#a450ba698751f3ddbd52deec3c573d2f9" title="Google Sheets functions. " alt="" coords="245,563,436,605"/>
+<area shape="rect" id="node18" href="$classModule__Web.html#a54a0a2a3106a9068aa0d15b592602601" title="Module_Web::addToLog" alt="" coords="259,629,422,656"/>
+<area shape="rect" id="node4" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#ab4873716405bd442cdca23c7c29a9131" title="onOffToText" alt="" coords="493,56,588,83"/>
+<area shape="rect" id="node12" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#a50877b3ad85652d07b562b9f0821596b" title="enabledToText" alt="" coords="487,411,595,437"/>
+<area shape="rect" id="node14" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#a2154478acbbb1471b35db8d3dce6f554" title="timeToText" alt="" coords="497,487,585,513"/>
+<area shape="rect" id="node17" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="493,571,588,597"/>
+</map>

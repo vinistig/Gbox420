@@ -1,0 +1,12 @@
+<map id="Module::addToRefreshQueue_Minute" name="Module::addToRefreshQueue_Minute">
+<area shape="rect" id="node2" href="$classPressureSensor.html#a4eb0a9c44b5ebf1a1d932b8975e43b4b" title="PressureSensor::Pressure\lSensor" alt="" coords="266,5,441,47"/>
+<area shape="rect" id="node3" href="$classHempyBucket.html#acc5fbe6f6b6aca31705b2e152126d622" title="HempyBucket::HempyBucket" alt="" coords="255,71,451,98"/>
+<area shape="rect" id="node4" href="$classDHTSensor.html#a75c40cadfc569af7abf80b2cb557b296" title="Class for the Digital Humidity and Temperature sensor. " alt="" coords="269,122,437,149"/>
+<area shape="rect" id="node5" href="$classFan.html#a2bf10abddbcad94045ad7e3d567f17b8" title="Fan controller (2 speed) " alt="" coords="316,173,391,199"/>
+<area shape="rect" id="node6" href="$classLights.html#a48acde7f45e4b9b22969e52fea689040" title="Lights::Lights" alt="" coords="303,223,403,250"/>
+<area shape="rect" id="node7" href="$classLightSensor.html#aa2b15bb718f72a125dcc068300abfba7" title="LightSensor::LightSensor" alt="" coords="269,274,437,301"/>
+<area shape="rect" id="node8" href="$classModuleSkeleton.html#a28db770cfd6d6a02110d0adb62666676" title="ModuleSkeleton::ModuleSkeleton" alt="" coords="245,325,461,351"/>
+<area shape="rect" id="node9" href="$classPHSensor.html#afe168dbbb29e3ecda521de4ef47ad6ee" title="PHSensor::PHSensor" alt="" coords="278,375,429,402"/>
+<area shape="rect" id="node10" href="$classWaterLevelSensor.html#aae6f402057511b5a9c30024dc483244c" title="WaterLevelSensor::WaterLevel\lSensor" alt="" coords="252,427,455,468"/>
+<area shape="rect" id="node11" href="$classWaterTempSensor.html#a88e6058500175b82a043ad682f968011" title="WaterTempSensor::WaterTemp\lSensor" alt="" coords="250,492,457,533"/>
+</map>

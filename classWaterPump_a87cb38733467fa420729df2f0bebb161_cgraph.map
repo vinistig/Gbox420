@@ -1,0 +1,7 @@
+<map id="WaterPump::report" name="WaterPump::report">
+<area shape="rect" id="node2" href="$classCommon.html#a9e60e2c26a5f4d72342a59a969954636" title="Common::report" alt="" coords="215,5,331,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="424,31,519,57"/>
+<area shape="rect" id="node4" href="$classWaterPump.html#a167326d1657bd3200b1f1d68771a25e7" title="Text representation of the current state: ON/OFF/DISABLED. " alt="" coords="185,107,360,133"/>
+<area shape="rect" id="node6" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="243,157,302,184"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#acd9fff39fb0f9089018e7ad0af87f3bf" title="pumpStateToText" alt="" coords="408,107,535,133"/>
+</map>

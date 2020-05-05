@@ -1,0 +1,37 @@
+<map id="GrowBox" name="GrowBox">
+<area shape="rect" id="node2" href="$classCommon__Web.html" title="Common_Web" alt="" coords="885,749,995,775"/>
+<area shape="rect" id="node4" href="$classModule__Web.html" title="Module_Web" alt="" coords="1261,857,1360,883"/>
+<area shape="rect" id="node7" href="$classAeroModule__Web.html" title="keeping track of time " alt="" coords="1583,265,1709,291"/>
+<area shape="rect" id="node9" href="$classAeroponics__Tank__Web.html" title="Aeroponics tote with pressure tank &#45; website component. " alt="" coords="1567,1018,1725,1045"/>
+<area shape="rect" id="node15" href="$classDHTSensor__Web.html" title="Digital Humidity and Temperature sensor Web (DHT11 or DHT22) &#45; website component. ..." alt="" coords="1583,410,1709,437"/>
+<area shape="rect" id="node17" href="$classFan__Web.html" title="Fan controller (2 speed) &#45; website component. " alt="" coords="1607,1345,1685,1371"/>
+<area shape="rect" id="node19" href="$classAeroponics__NoTank__Web.html" title="Aeroponics tote without pressure tank &#45; website component. " alt="" coords="1559,1525,1733,1551"/>
+<area shape="rect" id="node21" href="$classHempyModule__Web.html" title="keeping track of time " alt="" coords="1576,183,1716,210"/>
+<area shape="rect" id="node23" href="$classPressureSensor__Web.html" title="Pressure sensor &#45; website component. " alt="" coords="1571,662,1721,689"/>
+<area shape="rect" id="node24" href="$classLights__Web.html" title="forward declaration " alt="" coords="1601,1099,1691,1126"/>
+<area shape="rect" id="node26" href="$classLightSensor__Web.html" title="forward declaration " alt="" coords="1583,489,1709,515"/>
+<area shape="rect" id="node28" href="$classSound__Web.html" title="Sound feedback buzzer &#45; website component. " alt="" coords="1599,1281,1693,1307"/>
+<area shape="rect" id="node29" href="$classWaterTempSensor__Web.html" title="DS18B20 water temperature sensor &#45; website component. " alt="" coords="1563,1447,1729,1474"/>
+<area shape="rect" id="node31" href="$classWaterLevelSensor__Web.html" title="Contactless water sensor array (4 levels) &#45; website component. " alt="" coords="1565,601,1727,627"/>
+<area shape="rect" id="node33" href="$classPHSensor__Web.html" title="PH sensor &#45; website component. " alt="" coords="1588,919,1704,946"/>
+<area shape="rect" id="node35" href="$classPowerSensor__Web.html" title="PZEM004T power sensor &#45; website component. " alt="" coords="1579,834,1713,861"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="5,1353,80,1379"/>
+<area shape="rect" id="node5" href="$classModule.html" title="Module" alt="" coords="318,1235,382,1262"/>
+<area shape="rect" id="node6" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="588,1481,647,1507"/>
+<area shape="rect" id="node11" href="$classAeroponics.html" title="Aeroponics tote virtual parent class. " alt="" coords="897,1558,983,1585"/>
+<area shape="rect" id="node12" href="$classPressureSensor.html" title="Pressure sensor. " alt="" coords="560,1065,675,1091"/>
+<area shape="rect" id="node14" href="$classWaterPump.html" title="WaterPump" alt="" coords="572,1729,663,1755"/>
+<area shape="rect" id="node16" href="$classDHTSensor.html" title="DHT11 or DHT22 Digital Humidity and Temperature sensor. " alt="" coords="572,569,663,595"/>
+<area shape="rect" id="node18" href="$classFan.html" title="Fan controller (2 speed) " alt="" coords="595,1643,639,1670"/>
+<area shape="rect" id="node25" href="$classLights.html" title="Light controller with PWM dimming. " alt="" coords="589,1302,646,1329"/>
+<area shape="rect" id="node27" href="$classLightSensor.html" title="LM393 Light sensor. " alt="" coords="572,619,663,646"/>
+<area shape="rect" id="node30" href="$classWaterTempSensor.html" title="DS18B20 waterproof temperature sensor. " alt="" coords="552,1805,683,1831"/>
+<area shape="rect" id="node32" href="$classWaterLevelSensor.html" title="Contactless water sensor array (4 levels) " alt="" coords="553,698,682,725"/>
+<area shape="rect" id="node34" href="$classPHSensor.html" title="PHSensor" alt="" coords="576,1195,659,1222"/>
+<area shape="rect" id="node36" href="$classPowerSensor.html" title="PZEM004T power sensor. " alt="" coords="567,1014,667,1041"/>
+<area shape="rect" id="node8" href="$structSettings_1_1AeroModuleSettings.html" title="Switch between Imperial/Metric units. If changed update the default temp and pressure values too..." alt="" coords="1213,173,1408,199"/>
+<area shape="rect" id="node10" href="$classAeroponics__Tank.html" title="Aeroponics tote with pressure tank. " alt="" coords="1249,1290,1372,1317"/>
+<area shape="rect" id="node20" href="$classAeroponics__NoTank.html" title="Aeroponics tote without pressure tank. " alt="" coords="1241,1581,1381,1607"/>
+<area shape="rect" id="node13" href="$classRollingAverage.html" title="Rolling average tracker for smoothing sensor readings. Supports float and int values only..." alt="" coords="295,1043,405,1070"/>
+<area shape="rect" id="node22" href="$structSettings_1_1HempyModuleSettings.html" title="Settings::HempyModuleSettings" alt="" coords="1205,71,1416,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WaterLevelSensor::getLevelText" name="WaterLevelSensor::getLevelText">
+<area shape="rect" id="node2" href="$classWaterLevelSensor.html#af9082a30fbe3af588c2bd3c82acfaf8e" title="WaterLevelSensor::report" alt="" coords="287,5,458,32"/>
+<area shape="rect" id="node3" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="265,56,480,83"/>
+<area shape="rect" id="node4" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="546,27,725,53"/>
+<area shape="rect" id="node5" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="528,78,743,119"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="791,85,993,112"/>
+</map>

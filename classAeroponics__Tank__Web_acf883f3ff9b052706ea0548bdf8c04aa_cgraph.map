@@ -1,0 +1,12 @@
+<map id="Aeroponics_Tank_Web::websiteEvent_Refresh" name="Aeroponics_Tank_Web::websiteEvent_Refresh">
+<area shape="rect" id="node2" href="$classCommon.html#a86553d0d8ffabfd97236aa54ca2ba8f1" title="When it return true the component belongs to this object. " alt="" coords="224,5,427,32"/>
+<area shape="rect" id="node3" href="$classPressureSensor.html#aa3eccb7d69ba28ff2f5c4688bf13f7e8" title="PressureSensor::getPressureText" alt="" coords="216,56,435,83"/>
+<area shape="rect" id="node8" href="$classAeroponics__Tank.html#a0c9c9616ee380d0e4dd0ccc41d7e7a0f" title="Aeroponics_Tank::sprayState\lToText" alt="" coords="228,107,423,149"/>
+<area shape="rect" id="node9" href="$classWaterPump.html#a167326d1657bd3200b1f1d68771a25e7" title="Text representation of the current state: ON/OFF/DISABLED. " alt="" coords="238,173,413,200"/>
+<area shape="rect" id="node11" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#ab4873716405bd442cdca23c7c29a9131" title="onOffToText" alt="" coords="278,224,373,251"/>
+<area shape="rect" id="node4" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#ac0c4720f7d0aa5489bba21f0c45b23bc" title="pressureToText" alt="" coords="521,5,635,32"/>
+<area shape="rect" id="node5" href="$classRollingAverage.html#ada0ea15c7152230f9433329fba92d3f8" title="by default return the average, if false is passed return the latest reading " alt="" coords="721,56,887,83"/>
+<area shape="rect" id="node6" href="$classRollingAverage.html#aab001a981060af0948bd8b46c05c8e97" title="RollingAverage::getFloatText" alt="" coords="483,107,673,133"/>
+<area shape="rect" id="node7" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="775,107,833,133"/>
+<area shape="rect" id="node10" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#acd9fff39fb0f9089018e7ad0af87f3bf" title="pumpStateToText" alt="" coords="515,173,641,200"/>
+</map>

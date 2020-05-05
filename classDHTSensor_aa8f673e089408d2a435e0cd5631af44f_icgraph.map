@@ -1,0 +1,8 @@
+<map id="DHTSensor::getTempText" name="DHTSensor::getTempText">
+<area shape="rect" id="node2" href="$classDHTSensor.html#a2ef11882c3401c097b7a08e4b35eb103" title="DHTSensor::report" alt="" coords="271,5,403,32"/>
+<area shape="rect" id="node3" href="$classDHTSensor__Web.html#ad02a0f5edd3f948ae81f9ebe6032d443" title="DHTSensor_Web::websiteEvent\l_Refresh" alt="" coords="231,57,443,98"/>
+<area shape="rect" id="node4" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="229,123,444,149"/>
+<area shape="rect" id="node5" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="510,93,689,120"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="492,145,707,186"/>
+<area shape="rect" id="node7" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="755,152,957,179"/>
+</map>

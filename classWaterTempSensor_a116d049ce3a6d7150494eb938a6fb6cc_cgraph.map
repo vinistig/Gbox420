@@ -1,0 +1,7 @@
+<map id="WaterTempSensor::report" name="WaterTempSensor::report">
+<area shape="rect" id="node2" href="$classCommon.html#a9e60e2c26a5f4d72342a59a969954636" title="Common::report" alt="" coords="275,5,391,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="489,19,584,45"/>
+<area shape="rect" id="node4" href="$classWaterTempSensor.html#adf0bb887371405a1136ebe1578e0d0e4" title="WaterTempSensor::getTempText" alt="" coords="225,107,441,133"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2683828a0a7f43a26f85171e7c2dc73" title="tempToText" alt="" coords="491,81,583,108"/>
+<area shape="rect" id="node6" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="507,132,566,159"/>
+</map>

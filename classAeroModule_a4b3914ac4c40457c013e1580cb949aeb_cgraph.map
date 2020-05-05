@@ -1,0 +1,9 @@
+<map id="AeroModule::processCommand" name="AeroModule::processCommand">
+<area shape="rect" id="node2" href="$classModule.html#a79c2d0237995c6680a490f8a9c678fec" title="Module::setDebug" alt="" coords="293,56,421,83"/>
+<area shape="rect" id="node4" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="717,56,812,83"/>
+<area shape="rect" id="node6" href="$classModule.html#a966279a6ac1ac3f0dcd17859a94e18c9" title="Module::setMetric" alt="" coords="294,5,421,32"/>
+<area shape="rect" id="node7" href="$classAeroModule.html#a0a6063415ebead3f88e64ff636a520cd" title="AeroModule::updateResponse" alt="" coords="259,157,456,184"/>
+<area shape="rect" id="node8" href="$Gbox420__Nano__Aero_2Settings_8cpp.html#ac0ce9cbac65602e667e78fe16e0d51fe" title="saveSettings" alt="" coords="308,208,407,235"/>
+<area shape="rect" id="node3" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="522,5,651,32"/>
+<area shape="rect" id="node5" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="504,56,669,83"/>
+</map>

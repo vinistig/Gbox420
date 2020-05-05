@@ -1,0 +1,8 @@
+<map id="pumpStateToText" name="pumpStateToText">
+<area shape="rect" id="node2" href="$classWaterPump.html#a167326d1657bd3200b1f1d68771a25e7" title="Text representation of the current state: ON/OFF/DISABLED. " alt="" coords="189,64,364,91"/>
+<area shape="rect" id="node6" href="$classHempyModule__Web.html#a033e200e89351a69f29e6d1bb763ba9e" title="HempyModule_Web::report" alt="" coords="186,115,367,141"/>
+<area shape="rect" id="node7" href="$classHempyModule__Web.html#a1df6101df795a7a863667d2d28908a50" title="called when website is refreshed. " alt="" coords="180,166,373,207"/>
+<area shape="rect" id="node3" href="$classWaterPump.html#a87cb38733467fa420729df2f0bebb161" title="WaterPump::report" alt="" coords="443,5,575,32"/>
+<area shape="rect" id="node4" href="$classAeroponics__NoTank__Web.html#a1248fe0a06097426645344b35aec0431" title="Aeroponics_NoTank_Web\l::websiteEvent_Refresh" alt="" coords="421,57,596,98"/>
+<area shape="rect" id="node5" href="$classAeroponics__Tank__Web.html#acf883f3ff9b052706ea0548bdf8c04aa" title="Aeroponics_Tank_Web\l::websiteEvent_Refresh" alt="" coords="427,122,590,163"/>
+</map>

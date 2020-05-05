@@ -1,0 +1,8 @@
+<map id="PHSensor::refresh_Minute" name="PHSensor::refresh_Minute">
+<area shape="rect" id="node2" href="$classCommon.html#a14e4462a94bd118028ce1d487ca0292c" title="Common::refresh_Minute" alt="" coords="229,5,399,32"/>
+<area shape="rect" id="node4" href="$classPHSensor.html#aefd9f4f73636b8827a22b8246cbc4dee" title="PHSensor::updatePH" alt="" coords="240,81,388,108"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="700,43,795,69"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="520,43,579,69"/>
+<area shape="rect" id="node6" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="485,93,614,120"/>
+<area shape="rect" id="node7" href="$classRollingAverage.html#aa1fd09fa8d80046179ed7ed91bfed6d0" title="RollingAverage::updateAverage" alt="" coords="447,144,652,171"/>
+</map>

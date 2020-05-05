@@ -1,0 +1,5 @@
+<map id="WaterTempSensor" name="WaterTempSensor">
+<area shape="rect" id="node2" href="$classCommon.html" title="Common" alt="" coords="101,5,176,32"/>
+<area shape="rect" id="node3" href="$classModule.html" title="Module" alt="" coords="85,153,149,180"/>
+<area shape="rect" id="node4" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="355,243,413,269"/>
+</map>

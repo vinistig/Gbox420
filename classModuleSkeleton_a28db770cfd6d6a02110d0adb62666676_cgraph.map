@@ -1,0 +1,8 @@
+<map id="ModuleSkeleton::ModuleSkeleton" name="ModuleSkeleton::ModuleSkeleton">
+<area shape="rect" id="node2" href="$classModule.html#aee2cbab440d38d29948205820ad50be8" title="Queue subscriptions: When a component needs to get refreshed at certain intervals it subscribes to on..." alt="" coords="288,5,473,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="540,136,635,163"/>
+<area shape="rect" id="node4" href="$classModule.html#a08595d2a2bd347eec39c47a3b9e770fb" title="Module::addToRefreshQueue_Sec" alt="" coords="269,107,492,133"/>
+<area shape="rect" id="node5" href="$classModule.html#a2dffaa526893d852b722cf890a6821c6" title="Module::addToRefreshQueue\l_FiveSec" alt="" coords="285,158,477,199"/>
+<area shape="rect" id="node6" href="$classModule.html#a20d1125116f9a8c71339fde4626c5adb" title="Module::addToRefreshQueue\l_Minute" alt="" coords="285,223,477,265"/>
+<area shape="rect" id="node7" href="$classModule.html#a25f5e60e0db8e157fee631928f745e82" title="Module::addToRefreshQueue\l_QuarterHour" alt="" coords="285,289,477,330"/>
+</map>

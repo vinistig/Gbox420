@@ -1,0 +1,5 @@
+<map id="WaterPump" name="WaterPump">
+<area shape="rect" id="node2" href="$classCommon.html" title="Common" alt="" coords="95,5,169,32"/>
+<area shape="rect" id="node3" href="$classModule.html" title="Module" alt="" coords="112,153,176,180"/>
+<area shape="rect" id="node4" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="381,243,440,269"/>
+</map>

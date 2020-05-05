@@ -1,0 +1,16 @@
+<map id="MainModule" name="MainModule">
+<area shape="rect" id="node2" href="$classCommon__Web.html" title="Common_Web" alt="" coords="694,153,803,180"/>
+<area shape="rect" id="node4" href="$classModule__Web.html" title="Module_Web" alt="" coords="654,360,752,387"/>
+<area shape="rect" id="node7" href="$classFan__Web.html" title="Fan controller (2 speed) &#45; website component. " alt="" coords="880,449,958,476"/>
+<area shape="rect" id="node9" href="$classHempyModule__Web.html" title="keeping track of time " alt="" coords="998,449,1138,476"/>
+<area shape="rect" id="node11" href="$classLights__Web.html" title="forward declaration " alt="" coords="699,449,790,476"/>
+<area shape="rect" id="node13" href="$classSound__Web.html" title="Sound feedback buzzer &#45; website component. " alt="" coords="408,449,502,476"/>
+<area shape="rect" id="node14" href="$classPowerSensor__Web.html" title="PZEM004T power sensor &#45; website component. " alt="" coords="540,449,674,476"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="346,5,420,32"/>
+<area shape="rect" id="node5" href="$classModule.html" title="Module" alt="" coords="339,153,403,180"/>
+<area shape="rect" id="node6" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="6,360,64,387"/>
+<area shape="rect" id="node8" href="$classFan.html" title="Fan controller (2 speed) " alt="" coords="845,360,889,387"/>
+<area shape="rect" id="node12" href="$classLights.html" title="Light controller with PWM dimming. " alt="" coords="412,360,469,387"/>
+<area shape="rect" id="node15" href="$classPowerSensor.html" title="PZEM004T power sensor. " alt="" coords="254,360,354,387"/>
+<area shape="rect" id="node10" href="$structSettings_1_1HempyModuleSettings.html" title="Settings::HempyModuleSettings" alt="" coords="964,360,1175,387"/>
+</map>

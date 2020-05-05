@@ -1,0 +1,8 @@
+<map id="WaterTempSensor::getTempText" name="WaterTempSensor::getTempText">
+<area shape="rect" id="node2" href="$classWaterTempSensor.html#a116d049ce3a6d7150494eb938a6fb6cc" title="WaterTempSensor::report" alt="" coords="291,5,463,32"/>
+<area shape="rect" id="node3" href="$classWaterTempSensor__Web.html#a930d46ab1e337e085a06058d8c07f76b" title="constructor " alt="" coords="294,57,459,98"/>
+<area shape="rect" id="node4" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="269,123,484,149"/>
+<area shape="rect" id="node5" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="550,93,729,120"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="532,145,747,186"/>
+<area shape="rect" id="node7" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="795,152,997,179"/>
+</map>

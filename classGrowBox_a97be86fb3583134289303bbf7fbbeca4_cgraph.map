@@ -1,0 +1,20 @@
+<map id="GrowBox::GrowBox" name="GrowBox::GrowBox">
+<area shape="rect" id="node2" href="$classModule__Web.html#a38624eecf0efaefb9210a60868327020" title="Module_Web::addToRefresh\lQueue_FiveSec" alt="" coords="434,5,622,47"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="923,433,1017,459"/>
+<area shape="rect" id="node4" href="$classModule__Web.html#ac449bdaf2aae62ba30ee63a58b1bdd5d" title="Module_Web::addToRefresh\lQueue_Minute" alt="" coords="680,123,868,164"/>
+<area shape="rect" id="node5" href="$classModule__Web.html#ab6e5503496c826837eccf104c1fca09b" title="Module_Web::addToRefresh\lQueue_QuarterHour" alt="" coords="434,181,622,223"/>
+<area shape="rect" id="node6" href="$classModule__Web.html#a11f84c9609ed88d1bfcd869d64775e93" title="Website subscriptions: When a component needs to get notified of a Website events from the ESP&#45;link i..." alt="" coords="679,240,869,281"/>
+<area shape="rect" id="node7" href="$classModule__Web.html#aee7880f65926af22ba1b83a73607e3b6" title="Module_Web::addToWebsite\lQueue_Refresh" alt="" coords="192,299,383,340"/>
+<area shape="rect" id="node8" href="$classModule__Web.html#a9f9ef9212523d06a130c5e9046b81adf" title="Module_Web::addToWebsite\lQueue_Field" alt="" coords="192,364,383,405"/>
+<area shape="rect" id="node9" href="$classModule__Web.html#adadb1643a6b460c0d53a7341bb356ee1" title="Module_Web::addToWebsite\lQueue_Button" alt="" coords="192,429,383,471"/>
+<area shape="rect" id="node10" href="$classModule__Web.html#a1aa0d196cbc4ad14f561e1334a0ae98f" title="Module_Web::runAll" alt="" coords="218,534,357,561"/>
+<area shape="rect" id="node19" href="$classModule__Web.html#a54a0a2a3106a9068aa0d15b592602601" title="Module_Web::addToLog" alt="" coords="206,585,369,611"/>
+<area shape="rect" id="node11" href="$classModule__Web.html#adec2319a465bb9478e3699ce2d9612db" title="Refresh queues: Refresh components inside the Module. " alt="" coords="455,509,601,535"/>
+<area shape="rect" id="node13" href="$classModule__Web.html#a39cb72b8b1193e6a7d27d4ff414e07c6" title="Module_Web::runFiveSec" alt="" coords="442,559,614,586"/>
+<area shape="rect" id="node15" href="$classModule__Web.html#a580c12222077d148fe86cd0b07b263ec" title="Module_Web::runMinute" alt="" coords="447,661,609,687"/>
+<area shape="rect" id="node17" href="$classModule__Web.html#a89d99a5091a144203cc705deda0c0426" title="Module_Web::runQuarterHour" alt="" coords="431,762,625,789"/>
+<area shape="rect" id="node12" href="$classCommon.html#acd1fdd47fbf8bb490f5c6d3ab6cd8d05" title="Common::refresh_Sec" alt="" coords="697,509,851,535"/>
+<area shape="rect" id="node14" href="$classCommon.html#a604ab36b3a1d9a5bcfcb225149c82f90" title="Common::refresh_FiveSec" alt="" coords="685,610,863,637"/>
+<area shape="rect" id="node16" href="$classCommon.html#a14e4462a94bd118028ce1d487ca0292c" title="Common::refresh_Minute" alt="" coords="689,711,859,738"/>
+<area shape="rect" id="node18" href="$classCommon.html#aa7222229739c89d441fadd6a40deff89" title="Common::refresh_QuarterHour" alt="" coords="673,813,875,839"/>
+</map>

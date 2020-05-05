@@ -1,0 +1,7 @@
+<map id="HempyBucket" name="HempyBucket">
+<area shape="rect" id="node2" href="$classCommon.html" title="Common" alt="" coords="214,5,288,32"/>
+<area shape="rect" id="node3" href="$classModule.html" title="Module" alt="" coords="240,153,304,180"/>
+<area shape="rect" id="node4" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="51,243,110,269"/>
+<area shape="rect" id="node5" href="$classWeightSensor.html" title="WeightSensor" alt="" coords="416,243,520,269"/>
+<area shape="rect" id="node6" href="$classWaterPump.html" title="WaterPump" alt="" coords="559,243,650,269"/>
+</map>

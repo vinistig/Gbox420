@@ -1,0 +1,6 @@
+<map id="WaterTempSensor_Web::websiteEvent_Refresh" name="WaterTempSensor_Web::websiteEvent_Refresh">
+<area shape="rect" id="node2" href="$classCommon.html#a86553d0d8ffabfd97236aa54ca2ba8f1" title="When it return true the component belongs to this object. " alt="" coords="225,5,428,32"/>
+<area shape="rect" id="node3" href="$classWaterTempSensor.html#adf0bb887371405a1136ebe1578e0d0e4" title="WaterTempSensor::getTempText" alt="" coords="219,56,435,83"/>
+<area shape="rect" id="node4" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2683828a0a7f43a26f85171e7c2dc73" title="tempToText" alt="" coords="483,31,575,57"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="499,81,558,108"/>
+</map>

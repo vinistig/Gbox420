@@ -1,0 +1,8 @@
+<map id="Lights_Web" name="Lights_Web">
+<area shape="rect" id="node2" href="$classLights.html" title="Light controller with PWM dimming. " alt="" coords="76,360,133,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="282,5,356,32"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="296,153,360,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="568,360,627,387"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html" title="Common_Web" alt="" coords="42,153,151,180"/>
+<area shape="rect" id="node7" href="$classModule__Web.html" title="Module_Web" alt="" coords="158,360,256,387"/>
+</map>

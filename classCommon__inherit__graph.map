@@ -1,0 +1,45 @@
+<map id="Common" name="Common">
+<area shape="rect" id="node2" href="$classAeroModule.html" title="AeroModule" alt="" coords="344,1203,435,1229"/>
+<area shape="rect" id="node3" href="$classAeroponics.html" title="Aeroponics tote virtual parent class. " alt="" coords="150,56,237,83"/>
+<area shape="rect" id="node8" href="$classCommon__Web.html" title="Common_Web" alt="" coords="139,613,248,640"/>
+<area shape="rect" id="node27" href="$classDHTSensor.html" title="DHT11 or DHT22 Digital Humidity and Temperature sensor. " alt="" coords="148,169,239,196"/>
+<area shape="rect" id="node28" href="$classFan.html" title="Fan controller (2 speed) " alt="" coords="171,347,215,373"/>
+<area shape="rect" id="node29" href="$classHempyBucket.html" title="HempyBucket" alt="" coords="141,461,246,488"/>
+<area shape="rect" id="node30" href="$classHempyModule.html" title="HempyModule" alt="" coords="336,1296,443,1323"/>
+<area shape="rect" id="node31" href="$classLights.html" title="Light controller with PWM dimming. " alt="" coords="165,512,222,539"/>
+<area shape="rect" id="node32" href="$classLightSensor.html" title="LM393 Light sensor. " alt="" coords="148,563,239,589"/>
+<area shape="rect" id="node33" href="$classModule.html" title="Module" alt="" coords="161,1120,225,1147"/>
+<area shape="rect" id="node35" href="$classModuleSkeleton.html" title="This is a template for creating new modules. " alt="" coords="136,664,251,691"/>
+<area shape="rect" id="node36" href="$classPHSensor.html" title="PHSensor" alt="" coords="152,715,235,741"/>
+<area shape="rect" id="node37" href="$classPowerSensor.html" title="PZEM004T power sensor. " alt="" coords="143,765,243,792"/>
+<area shape="rect" id="node38" href="$classPowerSensorV3.html" title="3rd party module for the PZEM004T V3.0 power sensor " alt="" coords="135,816,251,843"/>
+<area shape="rect" id="node39" href="$classPressureSensor.html" title="Pressure sensor. " alt="" coords="136,867,251,893"/>
+<area shape="rect" id="node40" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="164,917,223,944"/>
+<area shape="rect" id="node41" href="$classWaterLevelSensor.html" title="Contactless water sensor array (4 levels) " alt="" coords="129,968,258,995"/>
+<area shape="rect" id="node42" href="$classWaterPump.html" title="WaterPump" alt="" coords="148,1171,239,1197"/>
+<area shape="rect" id="node43" href="$classWaterTempSensor.html" title="DS18B20 waterproof temperature sensor. " alt="" coords="128,1019,259,1045"/>
+<area shape="rect" id="node44" href="$classWeightSensor.html" title="WeightSensor" alt="" coords="141,1069,245,1096"/>
+<area shape="rect" id="node4" href="$classAeroponics__NoTank.html" title="Aeroponics tote without pressure tank. " alt="" coords="319,5,459,32"/>
+<area shape="rect" id="node6" href="$classAeroponics__Tank.html" title="Aeroponics tote with pressure tank. " alt="" coords="328,56,451,83"/>
+<area shape="rect" id="node5" href="$classAeroponics__NoTank__Web.html" title="Aeroponics tote without pressure tank &#45; website component. " alt="" coords="520,95,695,121"/>
+<area shape="rect" id="node7" href="$classAeroponics__Tank__Web.html" title="Aeroponics tote with pressure tank &#45; website component. " alt="" coords="529,323,686,349"/>
+<area shape="rect" id="node9" href="$classAeroModule__Web.html" title="keeping track of time " alt="" coords="327,512,452,539"/>
+<area shape="rect" id="node10" href="$classDHTSensor__Web.html" title="Digital Humidity and Temperature sensor Web (DHT11 or DHT22) &#45; website component. ..." alt="" coords="327,107,452,133"/>
+<area shape="rect" id="node11" href="$classFan__Web.html" title="Fan controller (2 speed) &#45; website component. " alt="" coords="350,157,429,184"/>
+<area shape="rect" id="node12" href="$classGrowBox.html" title="Represents the complete box with lights,temp/humidity/ph/light sensors,power meter, etc.. " alt="" coords="569,613,645,640"/>
+<area shape="rect" id="node13" href="$classHempyBucket__Web.html" title="UNDER DEVELOPMENT &#45; Hempy bucket &#45; website component. " alt="" coords="320,208,459,235"/>
+<area shape="rect" id="node14" href="$classHempyModule__Web.html" title="keeping track of time " alt="" coords="319,563,459,589"/>
+<area shape="rect" id="node15" href="$classLights__Web.html" title="forward declaration " alt="" coords="344,259,435,285"/>
+<area shape="rect" id="node16" href="$classLightSensor__Web.html" title="forward declaration " alt="" coords="327,309,452,336"/>
+<area shape="rect" id="node17" href="$classMainModule.html" title="Represents the complete box with lights,temp/humidity/ph/light sensors,power meter, etc.. " alt="" coords="561,968,653,995"/>
+<area shape="rect" id="node18" href="$classModuleSkeleton__Web.html" title="This is a template for creating new modules. " alt="" coords="315,664,464,691"/>
+<area shape="rect" id="node19" href="$classPHSensor__Web.html" title="PH sensor &#45; website component. " alt="" coords="331,715,447,741"/>
+<area shape="rect" id="node20" href="$classPowerSensor__Web.html" title="PZEM004T power sensor &#45; website component. " alt="" coords="322,765,457,792"/>
+<area shape="rect" id="node21" href="$classPowerSensorV3__Web.html" title="3rd party module for the PZEM004T V3.0 power sensor " alt="" coords="314,816,465,843"/>
+<area shape="rect" id="node22" href="$classPressureSensor__Web.html" title="Pressure sensor &#45; website component. " alt="" coords="315,867,464,893"/>
+<area shape="rect" id="node23" href="$classSound__Web.html" title="Sound feedback buzzer &#45; website component. " alt="" coords="343,917,436,944"/>
+<area shape="rect" id="node24" href="$classWaterLevelSensor__Web.html" title="Contactless water sensor array (4 levels) &#45; website component. " alt="" coords="308,968,471,995"/>
+<area shape="rect" id="node25" href="$classWaterTempSensor__Web.html" title="DS18B20 water temperature sensor &#45; website component. " alt="" coords="307,1019,472,1045"/>
+<area shape="rect" id="node26" href="$classWeightSensor__Web.html" title="UNDER DEVELOPMENT &#45; Weight sensor load cell &#45; website component. " alt="" coords="320,1069,459,1096"/>
+<area shape="rect" id="node34" href="$classModule__Web.html" title="Module_Web" alt="" coords="340,1120,439,1147"/>
+</map>

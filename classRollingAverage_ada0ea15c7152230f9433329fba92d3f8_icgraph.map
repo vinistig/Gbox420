@@ -1,0 +1,21 @@
+<map id="RollingAverage::getFloat" name="RollingAverage::getFloat">
+<area shape="rect" id="node2" href="$classPressureSensor.html#a39f2f08252640aeb9cf9c094ac796ed6" title="PressureSensor::getPressure" alt="" coords="219,71,412,98"/>
+<area shape="rect" id="node5" href="$classPressureSensor.html#aa3eccb7d69ba28ff2f5c4688bf13f7e8" title="PressureSensor::getPressureText" alt="" coords="460,122,679,149"/>
+<area shape="rect" id="node14" href="$classRollingAverage.html#aab001a981060af0948bd8b46c05c8e97" title="RollingAverage::getFloatText" alt="" coords="220,173,411,199"/>
+<area shape="rect" id="node19" href="$classPHSensor.html#ad277a03459aff975ad61039dfe22635d" title="PHSensor::getPH" alt="" coords="252,223,379,250"/>
+<area shape="rect" id="node20" href="$classModuleSkeleton__Web.html#a4fbb767613efc275f91eac8e550f1a86" title="ModuleSkeleton_Web\l::websiteEvent_Refresh" alt="" coords="234,275,397,316"/>
+<area shape="rect" id="node3" href="$classAeroponics__NoTank.html#a8e0130107832f0a60d37ea581f6f67fb" title="constructor " alt="" coords="495,5,643,47"/>
+<area shape="rect" id="node4" href="$classAeroponics__Tank.html#a9b1c9377aec2a453e4562bca5ae7afa2" title="Aeroponics_Tank::refresh_Sec" alt="" coords="469,71,670,98"/>
+<area shape="rect" id="node6" href="$classAeroponics__Tank.html#a45e50ca4e5d5a605d355d65c8cd3e5cd" title="Aeroponics_Tank::report" alt="" coords="752,13,916,39"/>
+<area shape="rect" id="node7" href="$classPressureSensor.html#ae9f360e068bc30f611ba50c7c9cf7e4a" title="PressureSensor::report" alt="" coords="756,63,912,90"/>
+<area shape="rect" id="node8" href="$classAeroponics__NoTank__Web.html#a1248fe0a06097426645344b35aec0431" title="Aeroponics_NoTank_Web\l::websiteEvent_Refresh" alt="" coords="747,115,921,156"/>
+<area shape="rect" id="node9" href="$classAeroponics__Tank__Web.html#acf883f3ff9b052706ea0548bdf8c04aa" title="Aeroponics_Tank_Web\l::websiteEvent_Refresh" alt="" coords="753,180,915,221"/>
+<area shape="rect" id="node10" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="727,246,941,273"/>
+<area shape="rect" id="node11" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="1007,217,1186,243"/>
+<area shape="rect" id="node12" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="989,268,1204,309"/>
+<area shape="rect" id="node13" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="1252,275,1455,302"/>
+<area shape="rect" id="node15" href="$classModuleSkeleton.html#a4b13bbc3ce0282781e36f450bd4f189a" title="ModuleSkeleton::report" alt="" coords="491,173,647,199"/>
+<area shape="rect" id="node16" href="$classPHSensor.html#af9730aece2d3bcb71ac9d4f1e6f96f1e" title="PHSensor::report" alt="" coords="508,223,631,250"/>
+<area shape="rect" id="node17" href="$classPHSensor.html#afa1a5158732cd57ffb41ae089bf8850f" title="PHSensor::getPHText" alt="" coords="493,274,646,301"/>
+<area shape="rect" id="node18" href="$classPHSensor__Web.html#a73ad3c5be0e9dd8deaea4cf2eee654be" title="PHSensor_Web::websiteEvent\l_Refresh" alt="" coords="733,297,935,339"/>
+</map>

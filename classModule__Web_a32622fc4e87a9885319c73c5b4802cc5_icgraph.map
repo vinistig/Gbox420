@@ -1,0 +1,6 @@
+<map id="Module_Web::runReport" name="Module_Web::runReport">
+<area shape="rect" id="node2" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="216,5,395,32"/>
+<area shape="rect" id="node3" href="$classGrowBox.html#a8763d725baee8237bc63865d464375d8" title="GrowBox::refresh_Minute" alt="" coords="220,56,391,83"/>
+<area shape="rect" id="node4" href="$classMainModule.html#ad8bcc57ac967efafd3a854ba09828c72" title="MainModule::refresh\l_FiveSec" alt="" coords="235,107,375,149"/>
+<area shape="rect" id="node5" href="$classMainModule.html#a453da3eb65ede7ce7c45bcdd5a7cfdc8" title="MainModule::refresh\l_Minute" alt="" coords="235,173,375,214"/>
+</map>

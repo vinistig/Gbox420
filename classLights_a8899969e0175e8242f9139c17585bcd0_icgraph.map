@@ -1,0 +1,11 @@
+<map id="Lights::getTimerOnOffText" name="Lights::getTimerOnOffText">
+<area shape="rect" id="node2" href="$classLights__Web.html#af46bb9ec74ecb0f45b465c2722b9b18a" title="Lights_Web::websiteEvent\l_Refresh" alt="" coords="249,5,427,47"/>
+<area shape="rect" id="node3" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="231,71,445,98"/>
+<area shape="rect" id="node7" href="$classMainModule.html#a74aefded56067720380c0e7e85b46f36" title="MainModule::reportToGoogle\lSheets" alt="" coords="243,129,433,171"/>
+<area shape="rect" id="node4" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="511,13,690,39"/>
+<area shape="rect" id="node5" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="493,64,708,105"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="756,71,959,98"/>
+<area shape="rect" id="node8" href="$classMainModule.html#ad8bcc57ac967efafd3a854ba09828c72" title="MainModule::refresh\l_FiveSec" alt="" coords="531,129,671,171"/>
+<area shape="rect" id="node9" href="$classMainModule.html#ad65d2de250162a43665224fd29917c8f" title="MainModule::reportToGoogle\lSheetsTrigger" alt="" coords="506,195,695,236"/>
+<area shape="rect" id="node10" href="$classMainModule.html#a42a84defbce6d6554057f49484219b7b" title="MainModule::refresh\l_QuarterHour" alt="" coords="787,195,927,236"/>
+</map>

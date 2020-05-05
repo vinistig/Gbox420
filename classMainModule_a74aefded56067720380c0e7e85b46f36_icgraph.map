@@ -1,0 +1,5 @@
+<map id="MainModule::reportToGoogleSheets" name="MainModule::reportToGoogleSheets">
+<area shape="rect" id="node2" href="$classMainModule.html#ad8bcc57ac967efafd3a854ba09828c72" title="MainModule::refresh\l_FiveSec" alt="" coords="267,5,407,47"/>
+<area shape="rect" id="node3" href="$classMainModule.html#ad65d2de250162a43665224fd29917c8f" title="MainModule::reportToGoogle\lSheetsTrigger" alt="" coords="243,71,432,112"/>
+<area shape="rect" id="node4" href="$classMainModule.html#a42a84defbce6d6554057f49484219b7b" title="MainModule::refresh\l_QuarterHour" alt="" coords="480,71,620,112"/>
+</map>

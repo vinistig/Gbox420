@@ -1,0 +1,9 @@
+<map id="DHTSensor::report" name="DHTSensor::report">
+<area shape="rect" id="node2" href="$classCommon.html#a9e60e2c26a5f4d72342a59a969954636" title="Common::report" alt="" coords="225,5,341,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Aero_2SerialLog_8cpp.html#a2ed3a5955995e7961dc9ea3dc3dd530d" title="logToSerials" alt="" coords="444,19,539,45"/>
+<area shape="rect" id="node4" href="$classDHTSensor.html#aa8f673e089408d2a435e0cd5631af44f" title="DHTSensor::getTempText" alt="" coords="195,107,371,133"/>
+<area shape="rect" id="node7" href="$classDHTSensor.html#a9770b8c3dddf36a7ebbd39f6135c2bb8" title="DHTSensor::getHumidityText" alt="" coords="185,157,380,184"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2683828a0a7f43a26f85171e7c2dc73" title="tempToText" alt="" coords="445,81,537,108"/>
+<area shape="rect" id="node6" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="462,132,521,159"/>
+<area shape="rect" id="node8" href="$Gbox420__Nano__Aero_2src_2Helpers_8cpp.html#aa2181939215a2351276764f38df14af0" title="percentageToText" alt="" coords="428,183,555,209"/>
+</map>

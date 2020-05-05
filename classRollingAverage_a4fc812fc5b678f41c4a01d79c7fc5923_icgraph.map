@@ -1,0 +1,13 @@
+<map id="RollingAverage::getInt" name="RollingAverage::getInt">
+<area shape="rect" id="node2" href="$classRollingAverage.html#a7b7015bd5a39e953983f73330b3d8c87" title="RollingAverage::getIntText" alt="" coords="204,89,381,116"/>
+<area shape="rect" id="node11" href="$classLightSensor.html#a90177d0d28db7e651f63da45bafcc61b" title="Light reading at dark,0,10,20...100%. " alt="" coords="210,140,375,167"/>
+<area shape="rect" id="node12" href="$classModuleSkeleton__Web.html#a4fbb767613efc275f91eac8e550f1a86" title="ModuleSkeleton_Web\l::websiteEvent_Refresh" alt="" coords="211,191,374,233"/>
+<area shape="rect" id="node3" href="$classLightSensor.html#af38ae75a6739383e1590548fdb07e353" title="Light sensor analog feedback: 0(darkest) to 1023 (brightest) " alt="" coords="429,64,620,91"/>
+<area shape="rect" id="node10" href="$classModuleSkeleton.html#a4b13bbc3ce0282781e36f450bd4f189a" title="ModuleSkeleton::report" alt="" coords="447,115,603,141"/>
+<area shape="rect" id="node4" href="$classLightSensor.html#a08ffec2f2bbb09966a8e37bf1f9887f9" title="LightSensor::report" alt="" coords="709,5,841,32"/>
+<area shape="rect" id="node5" href="$classLightSensor__Web.html#a6afe75f4f6cec3dc5f44454e23da1f8a" title="LightSensor_Web::website\lEvent_Refresh" alt="" coords="686,57,865,98"/>
+<area shape="rect" id="node6" href="$classGrowBox.html#a8070acc30dff79b90ff5d813fab1921f" title="GrowBox::reportToGoogleSheets" alt="" coords="668,123,883,149"/>
+<area shape="rect" id="node7" href="$classGrowBox.html#ad3c74a1bbf508489f113215d1f4ae43f" title="GrowBox::refresh_FiveSec" alt="" coords="949,93,1127,120"/>
+<area shape="rect" id="node8" href="$classGrowBox.html#a45f0e8f17bae077486e5839d621cdf5b" title="GrowBox::reportToGoogleSheets\lTrigger" alt="" coords="931,145,1145,186"/>
+<area shape="rect" id="node9" href="$classGrowBox.html#ac542032f42c8d6eac941ba4d98b73447" title="GrowBox::refresh_QuarterHour" alt="" coords="1193,152,1396,179"/>
+</map>
